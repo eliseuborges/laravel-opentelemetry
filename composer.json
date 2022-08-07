@@ -4,7 +4,7 @@
   "type": "library",
   "license": "MIT",
   "require": {
-    "open-telemetry/opentelemetry": "dev-main"
+    "open-telemetry/opentelemetry": "ˆ0.0.13"
   },
   "autoload": {
     "psr-4": {
